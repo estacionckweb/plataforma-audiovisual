@@ -1,14 +1,14 @@
 {
-  "main.css": "/static/css/main.29cd5810.chunk.css",
-  "main.js": "/static/js/main.9837e41a.chunk.js",
-  "main.js.map": "/static/js/main.9837e41a.chunk.js.map",
-  "static/js/1.305ad57b.chunk.js": "/static/js/1.305ad57b.chunk.js",
-  "static/js/1.305ad57b.chunk.js.map": "/static/js/1.305ad57b.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
-  "static/css/main.29cd5810.chunk.css.map": "/static/css/main.29cd5810.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.2c2c417df50845c8fcb0d2878a1d0c9a.js": "/precache-manifest.2c2c417df50845c8fcb0d2878a1d0c9a.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/plataforma-audiovisual/static/css/main.29cd5810.chunk.css",
+  "main.js": "/plataforma-audiovisual/static/js/main.77dc5559.chunk.js",
+  "main.js.map": "/plataforma-audiovisual/static/js/main.77dc5559.chunk.js.map",
+  "static/js/1.305ad57b.chunk.js": "/plataforma-audiovisual/static/js/1.305ad57b.chunk.js",
+  "static/js/1.305ad57b.chunk.js.map": "/plataforma-audiovisual/static/js/1.305ad57b.chunk.js.map",
+  "runtime~main.js": "/plataforma-audiovisual/static/js/runtime~main.7605dd37.js",
+  "runtime~main.js.map": "/plataforma-audiovisual/static/js/runtime~main.7605dd37.js.map",
+  "static/media/logo.svg": "/plataforma-audiovisual/static/media/logo.5d5d9eef.svg",
+  "static/css/main.29cd5810.chunk.css.map": "/plataforma-audiovisual/static/css/main.29cd5810.chunk.css.map",
+  "index.html": "/plataforma-audiovisual/index.html",
+  "precache-manifest.cdf596a458c68a8b6e85fee39eb83f01.js": "/plataforma-audiovisual/precache-manifest.cdf596a458c68a8b6e85fee39eb83f01.js",
+  "service-worker.js": "/plataforma-audiovisual/service-worker.js"
 }
